@@ -1,7 +1,6 @@
 # Node Simple Login & Nested Set
-A simple Login Using NodeJS and MongoDB
+A simple Login Using NodeJS and MongoDB  
 
-===
 ###Installation Guide:  
 
 1. Install docker by follow [this step](https://docs.docker.com/engine/installation/)  
