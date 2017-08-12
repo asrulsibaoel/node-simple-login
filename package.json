@@ -1,0 +1,24 @@
+{
+  "name": "node-simple-login",
+  "version": "1.0.0",
+  "description": "A simple login using Node JS and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asrulsibaoel/node-simple-login.git"
+  },
+  "keywords": [
+    "node",
+    "simple",
+    "login"
+  ],
+  "author": "asrulsibaoel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asrulsibaoel/node-simple-login/issues"
+  },
+  "homepage": "https://github.com/asrulsibaoel/node-simple-login#readme"
+}
